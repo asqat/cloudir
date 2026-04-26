@@ -3,7 +3,7 @@
 [![Go Version](https://img.shields.io/badge/go-1.25-blue.svg)](https://golang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Real-time directory sync with GoogleDrive**
+> **Real-time directory sync with Google Drive**
 
 `cloudir` is a fast, reliable, and cross-platform CLI utility that synchronizes a local directory with Google Drive in real-time. Think of it as `rsync` with a focus on cloud-native workflows and instant updates.
 
